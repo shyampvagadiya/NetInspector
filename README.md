@@ -164,7 +164,7 @@ This tool is intended strictly for **authorized testing, educational purposes, a
 
 ## Author
 
-**Shyam Vagadiya**
+**Shyam Vagadiya**  
 Cybercrime & Threat Intelligence Analyst
 
 [![GitHub](https://img.shields.io/badge/GitHub-shyampvagadiya-black?style=flat&logo=github)](https://github.com/shyampvagadiya/NetInspector)
