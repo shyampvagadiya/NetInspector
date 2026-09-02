@@ -9,7 +9,7 @@
 
 > **Scan. Analyze. Protect.**
 
-NetInspector is a Python-based, CLI-only network reconnaissance and traffic analysis tool combining a port scanner and a live packet sniffer/analyzer in a single utility. Designed for security practitioners, network administrators, and students who need a lightweight, terminal-friendly tool that works even on headless servers.
+NetInspector is a Python-based, CLI-only network reconnaissance and traffic analysis tool featuring a port scanner and a live packet sniffer/analyzer in a single utility. Designed for security practitioners, network administrators, and students who need a lightweight, terminal-friendly tool that works even on headless servers.
 
 ---
 
