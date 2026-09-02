@@ -16,15 +16,15 @@ NetInspector is a Python-based, CLI-only network reconnaissance and traffic anal
 ## Features
 
 ### 🔍 ICMP Scan (Ping Sweep)
-- Probe the availability of one or multiple hosts simultaneously
-- Input comma-separated IPs for batch scanning
+- Probe the availability of one or more hosts simultaneously
+- Input comma-separated IPs/hostnames for batch scanning
 - Reports each host as **UP** or **DOWN** with elapsed scan time
 - Gracefully flags invalid address formats
 
 ### 🔌 Port Scanner
 - Supports **TCP** and **UDP** scanning modes
 - **Single host scan** — target a specific IP and a set of comma-separated ports
-- **Range scan** — iterate over a subnet range (e.g. `192.168.1.1` to `192.168.1.50`) and scan specified ports across all hosts
+- **Range scan** — iterate over a subnet range/CIDR (e.g. `192.168.1.1` to `192.168.1.50`) and scan specified ports across all hosts
 - Performs reverse DNS resolution to display hostnames alongside IPs
 - Identifies service names for open ports via `socket.getservbyport`
 - Reports port status as `OPEN` or `Closed|Filtered`
@@ -165,7 +165,7 @@ This tool is intended strictly for **authorized testing, educational purposes, a
 ## Author
 
 **Shyam Vagadiya**  
-Cybercrime & Threat Intelligence Analyst
+Sr. Threat Intelligence & Cybercrime Analyst
 
 [![GitHub](https://img.shields.io/badge/GitHub-shyampvagadiya-black?style=flat&logo=github)](https://github.com/shyampvagadiya/NetInspector)
 
