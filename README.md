@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Platform-CLI-lightgrey?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Version-1.0.1-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
+  <!-- <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/> -->
 </p>
 
 > **Scan. Analyze. Protect.**
